@@ -1,0 +1,4 @@
+name: Shaddy
+version: '${project.version}'
+main: me.nick1666.shaddy.Shaddy
+api-version: 1.19
